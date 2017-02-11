@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">I Love Zappos</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search brands and products</string>
+    <string name="feature_products">Feature Products</string>
+
+    <string name="no_product_found">No product found</string>
+
+    <string name="launch_webview">Launch in webview</string>
+    <string name="item_added_cart">Item added to cart</string>
+    <string name="empty_cart">Cart is empty</string>
+    <string name="no_connection">No internet connection</string>
+</resources>
